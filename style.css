@@ -81,8 +81,7 @@ a {
 a:hover {
     color: #F5D742;
 }
-
-.menu a:active{
+a:active {
     color: #F5D742;
     text-decoration: underline solid #F5D742;
 }
