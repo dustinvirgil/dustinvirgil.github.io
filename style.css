@@ -34,7 +34,7 @@ header {
 
 .menu {
     align-items:right;
-    text-transform: lowercase;
+    text-transform: uppercase;
 }
 
 .menu ul {
